@@ -11,9 +11,9 @@ title                    : "Matt J. Davidson"
 title_separator          : "-"
 name                     : &name "Matt J. Davidson"
 description              : &description "personal description"
-url                      : https://mattjohndavidson-new.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://mattjohndavidson.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "mattjohndavidson/mattjohndavidson-new.github.io"
+repository               : "mattjohndavidson/mattjohndavidson.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,36 +80,36 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Matt J. Davidson"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "PhD Candidate in Educational Measurement and Statistics"
+  location         : "Seattle, WA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=R2cnZqwAAAAJ&hl=en&authuser=1"
+  email            : "mattjd@uw.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
-  flickr           :
+  flickr           : 
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "mattjohndavidson"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/matt-davidson-he-him-92379916/"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-6848-2876"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "dontmattme"
   vine             :
   weibo            :
   xing             :
@@ -176,7 +176,7 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
     output: true
